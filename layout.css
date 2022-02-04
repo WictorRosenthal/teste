@@ -5,8 +5,7 @@
 
 header {
     position: relative;
-    background-color: #a2a29d;
-    background-image: url (../teste/2.jpeg);
+    background-image: url(../teste/2.jpeg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
